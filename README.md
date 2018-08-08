@@ -14,7 +14,7 @@ Features:
 
 Notes: 
 - This program is still in the works, so suggestions are welcome :)
-- Please do not try to steal this, modify, and/or re-distribute this program
+- Please do not try to steal this in any way (refer to LICENSE for more informatiom)
 
 Usage:
 - Load up the program and play around with all the buttons and features
